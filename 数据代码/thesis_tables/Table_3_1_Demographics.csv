@@ -1,0 +1,33 @@
+﻿Variable,Category,Frequency (N),Percentage (%)
+Gender,女,637,53.08%
+Gender,男,563,46.92%
+Age Group,23-27岁,299,24.92%
+Age Group,28-32岁,229,19.08%
+Age Group,18-22岁,222,18.50%
+Age Group,33-37岁,214,17.83%
+Age Group,38-42岁,120,10.00%
+Age Group,43-47岁,62,5.17%
+Age Group,48岁以上,54,4.50%
+Education,本科,646,53.83%
+Education,硕士,255,21.25%
+Education,大专,154,12.83%
+Education,高中及以下,105,8.75%
+Education,博士,40,3.33%
+Occupation,企业职员,358,29.83%
+Occupation,学生,292,24.33%
+Occupation,自由职业者,155,12.92%
+Occupation,政府/事业单位,122,10.17%
+Occupation,教师/科研,105,8.75%
+Occupation,其他,90,7.50%
+Occupation,个体经营者,78,6.50%
+Income,6000-10000元,305,25.42%
+Income,3000-6000元,285,23.75%
+Income,10000-20000元,233,19.42%
+Income,3000元以下,146,12.17%
+Income,无收入,128,10.67%
+Income,20000元以上,103,8.58%
+City Tier,一线城市,301,25.08%
+City Tier,新一线城市,254,21.17%
+City Tier,二线城市,241,20.08%
+City Tier,三线城市,230,19.17%
+City Tier,四线及以下城市,174,14.50%

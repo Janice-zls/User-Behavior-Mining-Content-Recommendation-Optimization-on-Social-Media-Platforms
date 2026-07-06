@@ -1,0 +1,8 @@
+﻿Variable,N,Min,Max,Mean,SD,Skewness,Kurtosis
+Platform Habits,1200.0,1.00,5.00,3.00,0.78,0.049,-0.363
+Interaction,1200.0,1.00,5.00,3.00,0.77,-0.040,-0.360
+Recommendation Quality,1200.0,1.00,5.00,3.00,0.80,0.023,-0.457
+Privacy Concern,1200.0,1.00,5.00,3.00,0.77,0.001,-0.479
+Content Value,1200.0,1.00,5.00,3.00,0.79,0.061,-0.448
+Information Cocoon,1200.0,1.00,5.00,3.00,1.27,0.000,-0.968
+Satisfaction,1200.0,1.00,5.00,3.33,1.16,-0.280,-0.632

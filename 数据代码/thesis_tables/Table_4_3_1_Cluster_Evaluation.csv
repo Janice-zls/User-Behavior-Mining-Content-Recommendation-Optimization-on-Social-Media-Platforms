@@ -1,0 +1,5 @@
+﻿Number of Clusters (k),Inertia (SSE),Silhouette Score
+2,4309.44,0.237
+3,3806.91,0.175
+4,3395.95,0.169
+5,3162.77,0.162
